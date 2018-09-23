@@ -1,0 +1,16 @@
+html {
+  background-color: black;
+ }
+
+#content {
+  background: rgba(0,0,0,0.7);
+  border-radius: 8px;
+  margin: 30px;
+  padding: 30px;
+ }
+
+ img{
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+ }
